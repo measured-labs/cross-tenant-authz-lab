@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cross-tenant-authz-lab
+
+server:
+  port: 8216
